@@ -15,3 +15,5 @@
  <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
+![Snake animation](https://github.com/lucasrip/lucasrip/blob/output/github-contribution-grid-snake.svg)
+
